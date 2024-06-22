@@ -467,3 +467,13 @@ body::after {
 .top {
     transform: rotateX(90deg) translateZ(calc(var(--i-width)* 0.5));
 }
+
+.demo video {
+    height: 100vh;
+    background-size: cover;
+}
+
+.demo {
+    width: 100vw;
+    height: 100vh;
+}

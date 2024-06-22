@@ -55,6 +55,7 @@ body {
     align-items: center;
     perspective: 600px;
     overflow: hidden;
+
 }
 
 body::before {
